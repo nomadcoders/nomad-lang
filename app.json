@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "nomad-lang",
+    "slug": "nomad-lang",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "nomad-lang"
+}
